@@ -40,10 +40,10 @@
             Sobre mim
           </h2>
           <p class="text-base dark:text-gray-400 mb-8">
-            Tenho trabalhado como desenvolvedor a mais ou menos 2 anos <br/><br/>
+            Tenho trabalhado como desenvolvedor a 2 anos.<br/><br/>
             Desde o inicio da minha carreira venho buscando estudar e me aprofundar nos conceitos e praticas de programação, tanto em pontos teoricos, de linguagem e de frameworks
             Tenho focado em tecnologias de desenvolvimento web e mobile, como: <span class="rounded-md" style="color: #62248F;">Flutter, React Native, C#, JavaScript, HTML e CSS</span>. 
-            Mas tenho experimentado com a mistura de tecnologias diferentes para facilitar alguns projetos como: <span class="rounded-md" style="color: #62248F;">Vue, PHP e Laravel</span><br />
+            Mas tenho experimentado com a mistura de tecnologias diferentes para facilitar alguns projetos como: <span class="rounded-md" style="color: #62248F;">Vue, PHP e Laravel.</span><br />
           </p>
           <p class="text-base dark:text-gray-400 mb-8">
             No inicio de 2023 decidi por começar a trabalhar no meu tempo extra fazendo projetos para buscar contruir uma base de cliente e também para melhorar minhas capacidades.

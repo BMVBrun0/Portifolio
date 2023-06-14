@@ -25,14 +25,14 @@ class Portfolio extends Component
                 'category' => ['JavaScript', 'ReactNative'],
                 'title' => 'Aplicativo simples feito com React Native, o app foi feito para uma bolsa de estudos, a ideia do mesmo veio de um TCC',
                 'image' => url('/img/appBolsa.png'),
-                'github' => 'https://github.com/thecodeholic/laravel-vue-survey'
+                'github' => 'https://github.com/BMVBrun0/AppArborizacao'
             ],
-            // [
-            //     'category' => ['Yii2', 'Bootstrap'],
-            //     'title' => 'E-commerce website with Yii2',
-            //     'image' => url('/img/yii2-ecommerce.jpg'),
-            //     'github' => 'https://github.com/BMVBrun0/AppArborizacao'
-            // ],
+            [
+                'category' => ['PHP', 'Laravel', 'HTML'],
+                'title' => 'Portfólio para expor projetos. Feito utilizando PHP e Laravel',
+                'image' => url('/img/portifolioIMG.png'),
+                'github' => 'https://github.com/BMVBrun0/Portifolio'
+            ],
             // [
             //     'category' => ['PHP', 'Laravel'],
             //     'title' => 'REST API with Laravel 8 and Sanctum',
