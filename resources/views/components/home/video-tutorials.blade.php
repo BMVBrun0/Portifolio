@@ -8,7 +8,7 @@
             Contatos
           </h2>
           <div class="text-xl text-dark dark:text-gray-300 mb-4">
-            <p>Telefone: +55(49)99808-0238</p>
+            <p>Telefone: +55(49)98842-7624</p>
             <p>Email: trichesbruno@gmail.com</p>
           </div>
         </div>

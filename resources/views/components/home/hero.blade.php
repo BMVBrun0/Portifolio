@@ -11,8 +11,8 @@
             Eu sou o <span class="rounded-md" style="color: #62248F;">BMVBrun0</span>.
           </h1>
           <p class="text-base mb-8 max-w-[520px]">
-            Sou um desenvolverdor com pouco mais de 2 anos de experiencia. <br/>
-            Atualmente estou criando meu nome no mercado de trabalhon por isso criei esse portifolio para compartilhar meus projetos. <br>
+            Sou um desenvolverdor com mais de 2 anos de experiencia. <br/>
+            Atualmente estou criando meu nome no mercado de trabalho. Criei esse portifolio para compartilhar meus projetos pessoais de estudo. <br>
           </p>
           <ul class="flex flex-wrap items-center">
             <li>

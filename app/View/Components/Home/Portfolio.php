@@ -33,12 +33,12 @@ class Portfolio extends Component
                 'image' => url('/img/portifolioIMG.png'),
                 'github' => 'https://github.com/BMVBrun0/Portifolio'
             ],
-            // [
-            //     'category' => ['PHP', 'Laravel'],
-            //     'title' => 'REST API with Laravel 8 and Sanctum',
-            //     'image' => url('/img/laravel-rest-api.png'),
-            //     'github' => 'https://github.com/thecodeholic/laravel-image-manipulation-rest-api'
-            // ],
+            [
+                'category' => ['JavaScript', 'HTML'],
+                'title' => 'IntraNet utilizando JavaScript, modelo simples com base para usar o Microsoft Azure',
+                'image' => url('/img/intranetIMG.png'),
+                'github' => 'https://github.com/BMVBrun0/IntraNet'
+            ],
             // [
             //     'category' => ['PHP'],
             //     'title' => 'PHP MVC Framework',
